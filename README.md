@@ -1,3 +1,5 @@
+## Autor: Hugo Campos [link](https://github.com/HugocamposL3)
+
 # Placa Para Adaptar Componentes SOT-23 Para THROW_HOLE
 
 ## Neste exemplo nós utilizamos o MOSFET CANAL-P TP061K. 
